@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741740855663",
+    "project_id": "mycoachapp-17bee",
+    "storage_bucket": "mycoachapp-17bee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741740855663:android:d29d131d31170c4d9ea89a",
+        "android_client_info": {
+          "package_name": "com.example.my_kid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfVReEjD3yw4r9bIbCkB1l8DFaPsTbaZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
