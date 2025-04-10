@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
-class Customscaffoldmessenger {
+class ResultMessage {
   static void showSuccessSnackBar(BuildContext context,String message)
   {
     if(context.mounted){
